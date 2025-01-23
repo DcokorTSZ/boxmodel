@@ -1,0 +1,8 @@
+div {
+    margin: 0px 0px 0px 100px;
+    border: 1px solid red;
+    width: fit-content;
+}
+p.prvi {
+    margin: inherit;
+}

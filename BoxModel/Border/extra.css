@@ -1,0 +1,33 @@
+p.prvi {
+    border: 5px solid blue;
+    margin: 100px 100px 100px 100px;
+    width: fit-content;
+}
+p.drugi {
+    width: 100px;
+    border: 10px solid purple;
+
+}
+p.tri {
+    border: 7px solid yellow;
+    margin: 100px 100px 100px 100px;
+    width:100px ;
+    background-color: aqua;
+}
+p.cet {
+    border: 7px solid orange;
+    margin: 100px 100px 100px 300px;
+    width:200px ;
+
+}
+p.pet {
+    border: 7px solid red;
+    margin: 100px 100px 100px 100px;
+    width: 350px;
+    background-color: yellow;
+}
+p.sest {
+    border:1px solid greenyellow;
+    width: 100px;
+    background-color: pink;
+}

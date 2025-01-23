@@ -1,0 +1,8 @@
+p.prvi {
+    border-style: inset;
+}
+p.drugi {
+    border-bottom-width: thin;
+    border-top-width: thin;
+    border: 1px solid red;
+}
