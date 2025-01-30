@@ -1,0 +1,8 @@
+p.prvi {
+    padding: 1cm;
+    background-color: pink;
+}
+p.drugi {
+    padding: 1.5cm 3cm;
+    background-color: red;
+}
