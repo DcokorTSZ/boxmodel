@@ -1,0 +1,7 @@
+p {
+    border: 1px solid black;
+    outline-color: red;
+}
+p.prvi {
+    outline-style: double;
+}
